@@ -3,3 +3,5 @@
 .vscode/
 .idea/
 .env
+# Headless discovery tool
+tools/endpoint-discovery/node_modules
